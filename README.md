@@ -13,8 +13,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=imKeyurdesai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imKeyurdesai/imKeyurdesai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imKeyurdesai/imKeyurdesai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imKeyurdesai/imKeyurdesai/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![](https://visitcountpro.netlify.app/api?id=imKeyurdesai&pretty=true)](https://visitcount.itsvg.in)
