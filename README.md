@@ -13,4 +13,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=imKeyurdesai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=imKeyurdesai&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=imKeyurdesai&pretty=true)](https://visitcount.itsvg.in)
