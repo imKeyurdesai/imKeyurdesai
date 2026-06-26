@@ -19,4 +19,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imKeyurdesai/imKeyurdesai/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![](https://visitcountpro.netlify.app/api?id=imKeyurdesai&pretty=true)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=imKeyurdesai)](https://visitcount.itsvg.in)
